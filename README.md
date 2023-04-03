@@ -1,1 +1,1 @@
-# CLI based todo list application
+# CLI todo application written in Go
